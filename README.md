@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 <p ><img align="" src="https://github.com/IagoICS/IagoICS/blob/main/y2meta_com_-_Katana_Zero_Dance_Edit_AdobeExpress.gif "width="640" height="360" style="border: 3px solid #483D8B" /></p>
 
 
-![IagoICS GitHub stats](https://github-readme-stats.vercel.app/api?username=IagoICS&count_private=true&show_icons=true)
+![IagoICS GitHub stats](https://github-readme-stats.vercel.app/api?username=IagoICS&count_private=true&show_icons=true&theme=syntha)
+
