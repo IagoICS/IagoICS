@@ -19,12 +19,3 @@ Here are some ideas to get you started:
 <br>
 
 
-
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IagoICS&langs_count=8&theme=synthwave)](https://github.com/IagoICS/github-readme-stats)
-![IagoICS GitHub stats](https://github-readme-stats.vercel.app/api?username=IagoICS&count_private=true&show_icons=true&theme=synthwave)
-
-
-
